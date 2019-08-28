@@ -8,7 +8,7 @@ knowledge in python programming.
 
 ## What inside
  
- Topoligical sort algorithem using queue data structure to find the shortest path.
+ Topoligical sort algorithm using queue data structure to find the shortest path.
  
 ### Implementation of the exact picture below
 
